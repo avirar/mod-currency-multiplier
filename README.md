@@ -28,8 +28,9 @@ CurrencyMultiplier.Rate = 3
 
 ## Not affected
 
-The module deliberately does not hook vendor purchases, refunds, trades, mail,
-bank, auction or buyback. That avoids currency exchange and refund duplication.
+The module deliberately does not hook vendor purchases, refunds, trades, mail
+attachments, bank, auction or buyback. That avoids currency exchange and refund
+duplication.
 
 Currency from SAI, scripts, GM `.additem` and mail-delivered rewards is not
 boosted. Honor and arena points use the core `Rate.Honor` and

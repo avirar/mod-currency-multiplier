@@ -12,8 +12,8 @@
 #    CurrencyMultiplier.Rate
 #        Description: Multiplier for currency-token items gained from loot,
 #                     quest rewards and spell-created items.
-#                     Does not affect vendor exchanges, refunds, trades, mail,
-#                     bank, auction or buyback.
+#                     Does not affect vendor exchanges, refunds, trades, mail
+#                     attachments, bank, auction or buyback.
 #        Range:       >= 1; values below 1 are rejected and fall back to 1.
 #        Default:     1
 #
