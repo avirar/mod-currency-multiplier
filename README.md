@@ -13,7 +13,7 @@ Champion's Seal, Dalaran tokens and similar items.
 
 ## Configuration
 
-Edit `mod-currency-multiplier.conf` in `etc/modules/`:
+Edit `mod-currency-multiplier.conf` in `env/dist/etc/modules/`:
 
 ```ini
 CurrencyMultiplier.Rate = 3
